@@ -1,6 +1,3 @@
-<img src="banner_git_profile.png"/>
-
-___
 ✨ I’m currently working on <b>[Jabar Digital Service](https://github.com/jabardigitalservice)</b> as Mobile Engineer
 
 🚀 Making a better Government throught Design and Technology
